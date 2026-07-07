@@ -2,6 +2,9 @@
 
 Welcome to my personal portfolio repository! This is a modern, fully responsive digital resume built entirely from scratch. It showcases my technical skills, ongoing projects, and my journey as a computer science student.
 
+## live demo
+https://umang-codess.github.io/
+
 ##  Key Features
 - **Fully Responsive Layout:** Optimized for a seamless viewing experience across Mobile, Tablet, and Desktop screens.
 - **Dynamic Interactions:** Clean tab navigation and smooth hover effects powered by Vanilla JavaScript.
