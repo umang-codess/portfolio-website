@@ -619,6 +619,18 @@
     gap: 0.65rem;
     margin-top: 0;
   }
+
+.live-button {
+   align-items: center;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white; 
+    border-radius: 15px;
+    font-weight: lighter;
+    font-family: Arial, sans-serif;
+}
   .cert-button {
     align-items: center;
     text-align: center;
